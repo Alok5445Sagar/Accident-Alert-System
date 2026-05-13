@@ -1,6 +1,4 @@
-<p align="center">
-  #🚨 Accident Alert System
-</p>
+## 🚨 Accident Alert System
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-Smart%20Safety-blue?style=for-the-badge" />
@@ -199,21 +197,6 @@ Accident-Alert-System/
 
 ## Alok Sagar
 
-Software Developer | IoT Enthusiast | Problem Solver
-
-- 🚀 Passionate about Embedded Systems & Smart Technologies
-- 🌱 Exploring IoT, Automation, and Intelligent Systems
-- 💡 Building impactful real-world solutions
-
-GitHub: https://github.com/Alok5445Sagar
-
----
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
 
 # 📜 License
 
