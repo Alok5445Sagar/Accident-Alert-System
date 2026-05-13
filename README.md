@@ -1,4 +1,6 @@
-# 🚨 Accident Alert System
+<p align="center">
+  🚨 Accident Alert System
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IoT-Smart%20Safety-blue?style=for-the-badge" />
